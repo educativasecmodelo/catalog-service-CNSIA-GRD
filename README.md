@@ -45,4 +45,4 @@ docker exec k3d-mycluster-server-0 crictl images
 ##Check images en k3d
 kubectl logs deployment/catalog-service
 
-
+#Test actions
