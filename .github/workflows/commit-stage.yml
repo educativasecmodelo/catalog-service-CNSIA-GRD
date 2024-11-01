@@ -1,7 +1,7 @@
 name: Commit Stage
 on: push
 
- jobs:
+jobs:
    build:
      name: Build and Test LS3
      runs-on: ubuntu-22.04
